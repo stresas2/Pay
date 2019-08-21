@@ -30,4 +30,5 @@ Payment structure example:<br/>
 
 Run the test:<br/>
 `npm test`<br/>
-Progam has 3 different modules for each fee type and it can be tested with various options and inputs.
+Progam has 3 different modules for each fee type and it can be tested with various options and inputs.<br/>
+Test in output give answer if test is passed.
