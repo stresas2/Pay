@@ -2,7 +2,7 @@
 
 Payement fees calculation system created for task.<br/>
 Code has [Airbnb style guide](https://github.com/airbnb/javascript) compatible.<br/>
-The system has implemented the [Jest](https://github.com/facebook/jest) - JavaScript Testing Framework .
+Progam has the [Jest](https://github.com/facebook/jest) - JavaScript Testing Framework .
 
 
 ## Installation
