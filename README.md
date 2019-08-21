@@ -1,10 +1,13 @@
-# Project Name
+# Pay 
 
-TODO: Write a project description
+Payement fees calculation system created for task.
+Code has [Airbnb style guide](https://github.com/airbnb/javascript) compatible.
+
 
 ## Installation
 
-TODO: Describe the installation process
+Describe the installation process:
+`npm`
 
 ## Usage
 
