@@ -1,7 +1,7 @@
 # Pay 
 
-Payement fees calculation system created for task.
-Code has [Airbnb style guide](https://github.com/airbnb/javascript) compatible.
+*Payement fees calculation system created for task.
+*Code has [Airbnb style guide](https://github.com/airbnb/javascript) compatible.
 
 
 ## Installation
